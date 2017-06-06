@@ -1,0 +1,6 @@
+[submodule "admin-portal"]
+	path = admin-portal
+	url = https://github.com/Shrikkanth92/admin-portal.git
+[submodule "store-front"]
+	path = store-front
+	url = https://github.com/Shrikkanth92/store-front.git
